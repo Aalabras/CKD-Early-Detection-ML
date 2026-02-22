@@ -1,13 +1,13 @@
 Early Detection of Chronic Kidney Disease Using Machine Learning
 
 
-📌 Project Overview
+1- Project Overview
 
 This project applies machine learning algorithms to predict Chronic Kidney Disease (CKD) using clinical and laboratory features.
 
 CKD is often asymptomatic in early stages, making predictive modeling a valuable tool for early detection and clinical decision support.
 
-📊 Dataset
+2- Dataset
 
 Source: Chronic Kidney Disease dataset from Kaggle
 
@@ -31,7 +31,7 @@ Hypertension
 
 Diabetes Mellitus
 
-⚙️ Methodology
+3- Methodology
 
 Data cleaning and preprocessing
 
@@ -49,7 +49,7 @@ Hyperparameter tuning using GridSearchCV
 
 10-fold Cross-validation
 
-🤖 Models Implemented
+4- Models Implemented
 
 Logistic Regression
 
@@ -59,7 +59,7 @@ Decision Tree
 
 Random Forest
 
-📈 Results
+5- Results
 Model	Accuracy
 Logistic Regression	1.0000
 Logistic Regression Balanced	1.0000
@@ -72,14 +72,14 @@ Mean Accuracy: 0.9906
 
 Standard Deviation: 0.0200
 
-📊 Visualizations
+6- Visualizations
 Feature Correlation Matrix
 
 Model Comparison
 
 Confusion Matrix
 
-🔍 Key Predictors
+7- Key Predictors
 
 The most correlated features with CKD:
 
@@ -93,7 +93,7 @@ Blood Glucose
 
 Pedal Edema
 
-⚠ Limitations
+8- Limitations
 
 Dataset size is relatively small
 
@@ -101,6 +101,6 @@ Results are based on a single public dataset
 
 No external validation dataset
 
-👨‍💻 Author
+9- Author
 
 Abdullah Alabras
